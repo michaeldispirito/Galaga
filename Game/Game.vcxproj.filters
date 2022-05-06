@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp" />
+    <ClCompile Include="Galaga.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="PathManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Path.cpp">
+      <Filter>Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="WayPoint.cpp">
+      <Filter>Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Bee.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Moth.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{92f1c73a-c2ea-4322-afec-74c388668350}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{4faa9bfa-244f-4244-8021-b12775ce1718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DesignData">
+      <UniqueIdentifier>{43287764-bdad-474a-b9b5-edd3f5aa5de7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Paths">
+      <UniqueIdentifier>{8de002fe-0656-48b4-8f8a-67ae652db60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{f8c82f73-a33e-4c15-80c5-271aec4639fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Music">
+      <UniqueIdentifier>{caaf1489-3a21-4111-b0e6-224a25a6bf47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreen.h" />
+    <ClInclude Include="Galaga.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="TextureManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="PathManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Path.h">
+      <Filter>Paths</Filter>
+    </ClInclude>
+    <ClInclude Include="PathNames.h">
+      <Filter>Paths</Filter>
+    </ClInclude>
+    <ClInclude Include="WayPoint.h">
+      <Filter>Paths</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Bee.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Moth.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="PathData.json">
+      <Filter>DesignData</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\Music\BulletFire.wav">
+      <Filter>Music</Filter>
+    </Media>
+    <Media Include="..\Music\EnemyAttack.wav">
+      <Filter>Music</Filter>
+    </Media>
+    <Media Include="..\Music\EnemyDeath.wav">
+      <Filter>Music</Filter>
+    </Media>
+    <Media Include="..\Music\StartOfRound.wav">
+      <Filter>Music</Filter>
+    </Media>
+    <Media Include="..\Music\PlayerDeath.wav">
+      <Filter>Music</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

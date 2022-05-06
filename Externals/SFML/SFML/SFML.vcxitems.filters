@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{9818e26d-5387-45a6-b08c-2da552b5e145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{f55dd590-805d-4ae5-8c08-b2d66839d43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{b963daf6-a348-40b1-ba71-03f154c5f84c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{96d43f01-aaea-4029-bd02-7c498f72ff73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Window">
+      <UniqueIdentifier>{f744a1ad-faaa-4760-80c7-08a79a807cbe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\AlResource.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\Export.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\InputSoundFile.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\Listener.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\Music.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\OutputSoundFile.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\Sound.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundBuffer.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundBufferRecorder.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundFileFactory.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundFileReader.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundFileWriter.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundRecorder.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundSource.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundStream.hpp">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\BlendMode.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\CircleShape.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Color.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\ConvexShape.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Drawable.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Export.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Font.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Glsl.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Glyph.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Image.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\PrimitiveType.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Rect.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\RectangleShape.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\RenderStates.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\RenderTarget.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\RenderTexture.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\RenderWindow.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Shader.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Shape.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Sprite.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Text.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Texture.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Transform.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Transformable.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Vertex.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\VertexArray.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\View.hpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\Export.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\Ftp.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\Http.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\IpAddress.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\Packet.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\Socket.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\SocketHandle.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\SocketSelector.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\TcpListener.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\TcpSocket.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network\UdpSocket.hpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Clock.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Err.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Export.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\FileInputStream.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\InputStream.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Lock.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\MemoryInputStream.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Mutex.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\NativeActivity.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\NonCopyable.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Sleep.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\String.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Thread.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\ThreadLocal.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\ThreadLocalPtr.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Time.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Utf.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Vector2.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Vector3.hpp">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Context.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\ContextSettings.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Event.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Export.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\GlResource.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Joystick.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Keyboard.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Mouse.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Sensor.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Touch.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\VideoMode.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\Window.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\WindowHandle.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window\WindowStyle.hpp">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Config.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Main.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Network.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\OpenGL.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System.hpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Window.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Audio\SoundFileFactory.inl">
+      <Filter>Audio</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Glsl.inl">
+      <Filter>Graphics</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\Graphics\Rect.inl">
+      <Filter>Graphics</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\String.inl">
+      <Filter>System</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Thread.inl">
+      <Filter>System</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\ThreadLocalPtr.inl">
+      <Filter>System</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Utf.inl">
+      <Filter>System</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Vector2.inl">
+      <Filter>System</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)..\x86\include\SFML\System\Vector3.inl">
+      <Filter>System</Filter>
+    </None>
+  </ItemGroup>
+</Project>

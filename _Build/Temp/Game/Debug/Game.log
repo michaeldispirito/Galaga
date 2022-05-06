@@ -1,0 +1,56 @@
+﻿  Bee.cpp
+  Boss.cpp
+  Enemy.cpp
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Enemy.cpp(8,41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Enemy.cpp(8,10): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  EnemyManager.cpp
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.h(42,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(25,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(118,85): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(223,70): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(238,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(239,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.cpp(240,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Galaga.cpp
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\GameScreen.h(24,45): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.h(42,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Galaga.cpp(11,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Galaga.cpp(21,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Galaga.cpp(28,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\Galaga.cpp(35,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Moth.cpp
+  Path.cpp
+  PathManager.cpp
+  TextureManager.cpp
+  WayPoint.cpp
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\WayPoint.cpp(12,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\GameScreen.h(24,45): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\Game\EnemyManager.h(42,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Game.vcxproj -> C:\Users\michael.dispirito\Documents\FinalProject_Galaga\SFMLGame\_Build\x64\Debug\Game.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied

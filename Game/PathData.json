@@ -1,0 +1,272 @@
+{
+  "TopHookLeft": {
+    "Length": 4,
+    "Points": [
+      {
+        "X": 300,
+        "Y": -9
+      },
+      {
+        "X": 300,
+        "Y": 100,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      },
+      {
+        "X": 80,
+        "Y": 270,
+        "CurveDirection": 2,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 200,
+        "Y": 270,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "TopHookRight": {
+    "Length": 4,
+    "Points": [
+      {
+        "X": 150,
+        "Y": -9
+      },
+      {
+        "X": 150,
+        "Y": 100,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      },
+      {
+        "X": 370,
+        "Y": 270,
+        "CurveDirection": 2,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 250,
+        "Y": 270,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "LeftSideLoop": {
+    "Length": 4,
+    "Points": [
+      {
+        "X": -9,
+        "Y": 350
+      },
+      {
+        "X": 180,
+        "Y": 275,
+        "CurveDirection": 1,
+        "CurveDepth": 0.2
+      },
+      {
+        "X": 100,
+        "Y": 275,
+        "CurveDirection": 2,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 180,
+        "Y": 275,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "RightSideLoop": {
+    "Length": 4,
+    "Points": [
+      {
+        "X": 459,
+        "Y": 350
+      },
+      {
+        "X": 270,
+        "Y": 275,
+        "CurveDirection": 1,
+        "CurveDepth": 0.2
+      },
+      {
+        "X": 350,
+        "Y": 275,
+        "CurveDirection": 2,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 270,
+        "Y": 275,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "Ushape_FarLeft": {
+    "Length": 3,
+    "Points": [
+      {
+        "X": 225,
+        "Y": 260
+      },
+      {
+        "X": 40,
+        "Y": 450,
+        "CurveDirection": -1,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 110,
+        "Y": 450,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "Ushape_Left": {
+    "Length": 3,
+    "Points": [
+      {
+        "X": 225,
+        "Y": 260
+      },
+      {
+        "X": 120,
+        "Y": 450,
+        "CurveDirection": -1,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 190,
+        "Y": 450,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "Ushape_Middle": {
+    "Length": 3,
+    "Points": [
+      {
+        "X": 300,
+        "Y": 260
+      },
+      {
+        "X": 250,
+        "Y": 450,
+        "CurveDirection": -1,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 310,
+        "Y": 450,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "Ushape_Right": {
+    "Length": 3,
+    "Points": [
+      {
+        "X": 400,
+        "Y": 260
+      },
+      {
+        "X": 350,
+        "Y": 450,
+        "CurveDirection": -1,
+        "CurveDepth": 0.5
+      },
+      {
+        "X": 420,
+        "Y": 450,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      }
+    ]
+  },
+  "Circle_Left": {
+    "Length": 6,
+    "Points": [
+      {
+        "X": 100,
+        "Y": 300
+      },
+      {
+        "X": 150,
+        "Y": 300,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 100,
+        "Y": 300,
+        "CurveDirection": -1,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 200,
+        "Y": 400,
+        "CurveDirection": 1,
+        "CurveDepth": 0.2
+      },
+      {
+        "X": 250,
+        "Y": 470,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      },
+      {
+        "X": 300,
+        "Y": 400,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      }
+    ]
+  },
+  "Circle_Right": {
+    "Length": 6,
+    "Points": [
+      {
+        "X": 300,
+        "Y": 300
+      },
+      {
+        "X": 400,
+        "Y": 300,
+        "CurveDirection": 1,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 300,
+        "Y": 300,
+        "CurveDirection": -1,
+        "CurveDepth": 0.8
+      },
+      {
+        "X": 280,
+        "Y": 400,
+        "CurveDirection": 1,
+        "CurveDepth": 0.2
+      },
+      {
+        "X": 240,
+        "Y": 470,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      },
+      {
+        "X": 220,
+        "Y": 400,
+        "CurveDirection": 0,
+        "CurveDepth": 0
+      }
+    ]
+  }
+}
